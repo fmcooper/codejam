@@ -1,4 +1,4 @@
-// codejam tidy numbers
+// codejam the last word
 // https://code.google.com/codejam/contest/4304486/dashboard
 
 import java.util.*;

@@ -1,4 +1,4 @@
-// codejam tidy numbers
+// codejam rank and file
 // https://code.google.com/codejam/contest/4304486/dashboard#s=p1
 
 import java.util.*;
